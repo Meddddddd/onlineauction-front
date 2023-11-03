@@ -1,0 +1,23 @@
+.lot-card {
+    background-color: #f9f9f9;
+    border: 1px solid #e4e4e4;
+    border-radius: 4px;
+    margin: 10px;
+    padding: 20px;
+    width: 250px;
+}
+
+.lot-card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.lot-card p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.lot-card img {
+    max-width: 100%;
+    height: auto;
+}
